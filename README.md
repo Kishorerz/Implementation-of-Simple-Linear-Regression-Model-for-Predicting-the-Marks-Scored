@@ -95,30 +95,39 @@ print('RMSE = ',rmse)
 ## Output:
 
 df.head()
+
 ![alt text](img/head.png)
 
 df.tail()
+
 ![alt text](img/tail.png)
 
 Array value of X
+
 ![alt text](img/x.png)
 
 Array value of Y
+
 ![alt text](img/y.png)
 
 Values of Y prediction
+
 ![alt text](img/ypred.png)
 
 Array values of Y test
+
 ![alt text](img/ytest.png)
 
 Training Set Graph
+
 ![alt text](img/traingraph.png)
 
 Test Set Graph
+
 ![alt text](<img/test gra.png>)
 
 Values of MSE, MAE and RMSE
+
 ![alt text](img/last.png)
 
 
